@@ -2,5 +2,5 @@
 def catch_phrase(phrase)
   
   puts phrase
-   binding.pry
+  binding.pry
 end
