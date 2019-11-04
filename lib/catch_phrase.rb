@@ -5,7 +5,7 @@ def catch_phrase(phrase)
   binding.pry
 end
 def catch_phrase
-  phare
+  phrase = "It's-a me, Mario!"
   puts phrase
   
 end
