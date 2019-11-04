@@ -2,7 +2,7 @@
 def catch_phrase(phrase)
   
   puts phrase
-  
+  binding.pry
 end
 def catch_phrase
   phare
